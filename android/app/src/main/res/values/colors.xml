@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Noir i-fret : même fond que l'animation d'entrée Flutter, pour un lancement sans flash blanc. -->
+    <color name="launch">#1E1E1E</color>
+	<color name="ic_launcher_background">#FFCC00</color>
+</resources>
